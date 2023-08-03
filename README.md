@@ -1,0 +1,1 @@
+this is a simple program of checking the palindrome given by the user to check whether the input number is palindrome or not, if the number is palindrome it gives the output that "the number is palindrome"
